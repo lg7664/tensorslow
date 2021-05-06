@@ -27,3 +27,7 @@ GPU内存：2 GB
 开发环境	Tensorflow版本：1.2.1
 IDE版本：Anaconda 4.2
 开发语言：Python 3.5.2
+
+PS：CIFAR10的文件太大我就没有上传了，大家可以自行网上下载。
+当然大家也可以去我的csdn博客下载，那里还有我的程序运行的视频：
+https://download.csdn.net/download/weixin_44520656/18230334?spm=1001.2014.3001.5503
